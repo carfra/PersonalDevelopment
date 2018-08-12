@@ -1,5 +1,5 @@
 # TEUSAPP
-![Teusapp Logo](https://github.com/carfra/PersonalDevelopment/blob/master/Logo.png)
+![Teusapp Logo](https://github.com/carfra/PersonalDevelopment/blob/master/Logo2.png)
 ## Descripción
 Solución para contribuir al mejoramiento en la movilidad de la localidad de **Teusaquillo**
 ## Reto
