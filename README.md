@@ -23,3 +23,4 @@ function fancyAlert(arg) {
 ```
 @carfra
 http://www.github.com/
+:globe_with_meridians:
