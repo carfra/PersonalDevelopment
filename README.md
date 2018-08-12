@@ -14,3 +14,10 @@ Solución para contribuir al mejoramiento en la movilidad de la localidad de **T
 * Jorge Forero
 * Carlos Franco
 ## Roles
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
